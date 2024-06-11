@@ -8,3 +8,4 @@ This code is written to analyze any whatsapp chat.
 <li>Most used emoji, its number and matplotlib based on statistics
 <li>Most used word by each user and WordCloud
 
+<br>For the code working, exported WhatsApp chat and users names should be inserted in highlighted parts in the code. 
